@@ -1,0 +1,34 @@
+_repo: Maantieta-pitkin_70603
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haanpää, Pentti
+    alias: Haanpaa, Pentti
+    birthdate: 1905
+    deathdate: 1955
+    gutenberg_agent_id: '55819'
+    url: http://www.gutenberg.org/2009/agents/55819
+    wikipedia: https://fi.wikipedia.org/wiki/Pentti_Haanp%C3%A4%C3%A4
+description: ''
+gutenberg_issued: '2023-04-20'
+identifiers:
+  gutenberg: '70603'
+language: fi
+pgterms:marc905: 20230413101217haanp
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Elämän valtatieltä -- Hengen lähtö -- Viimeinen hauta -- Vaalenneiden
+  luiden tarina -- Äiti ja poika -- Tilanomistajan aamu -- Mäki autiolla mustassa
+  yössä -- Heinähelteisen kesäpäivän tapaukset sekä epilogi -- Huhtikuinen yö.
+title: Maantietä pitkin
+url: http://www.gutenberg.org/ebooks/70603
