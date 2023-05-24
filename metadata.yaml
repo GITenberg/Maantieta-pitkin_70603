@@ -1,5 +1,8 @@
 _repo: Maantieta-pitkin_70603
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haanpää, Pentti
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55819
     wikipedia: https://fi.wikipedia.org/wiki/Pentti_Haanp%C3%A4%C3%A4
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70603#Maantieta-pitkin
 gutenberg_issued: '2023-04-20'
 identifiers:
   gutenberg: '70603'
